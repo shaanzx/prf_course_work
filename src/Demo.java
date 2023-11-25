@@ -75,6 +75,7 @@ class Demo {
 
             clearConsole();
             homepage(input);
+            System.out.println("hello");
 
         }
 
