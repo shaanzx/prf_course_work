@@ -1,6 +1,6 @@
 import java.util.*;
 class Demo {
-    //Sasmith Manawadu GDSE68
+    //lakshan GDSE 70
     private static Scanner input = new Scanner(System.in);
     static String[][] cred = new String [1][2];			//Credential Manage Array
     static String[][] supplier = new String[1][2];		//Supplier Manage Array
